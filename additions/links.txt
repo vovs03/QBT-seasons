@@ -30,3 +30,7 @@ Flags:
 
 
 
++ https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&date=2017-12-27&linkfrom=https://github.com/KeyJoo/QBT-seasons/README.ru.md&link=1&author=Vladimir-Pavlychev > http://bit.ly/Kahoot-for-Android-
++ https://itunes.apple.com/app/apple-store/id1131203560?pt=2314983&date=2017-12-27&linkfrom=https://github.com/KeyJoo/QBT-seasons/README.ru.md&link=2&author=Vladimir-Pavlychev > http://bit.ly/Kahoot-for-iOS-
+
+
