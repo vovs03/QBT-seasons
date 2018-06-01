@@ -5,7 +5,7 @@ This variant for local club quiz.
 
 Every Sabbath for one quarter, it is suggested to learn 1 biblical verse. The texts are grouped by subject.
 
-![Image of Quiz Bible Text](app/assets/images/QBT_baner_96%5BEN%5D.png)
+![Image of Quiz Bible Text](app/assets/images/qbt-baner-96-en.png)
 
 
 1 History
